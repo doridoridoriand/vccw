@@ -25,7 +25,7 @@ To get started, check out <http://vccw.cc/>
 * 明示的に `vagrant-hostsupdater` というプラグインをインストールしてやる必要がある。
 * `C:/Windows/System32/drivers/etc`内部にあるhostsファイルに対して書き込みをするので、こいつにアクセス許可を与えてやる必要がある。
 
-```:git bash
-$ cd 
-$ vagrant plugin install vagrant-hostsupdater
+```
+  $ cd 
+  $ vagrant plugin install vagrant-hostsupdater
 ```
